@@ -1,0 +1,170 @@
+#header-container{
+    height: 4cm;
+    border-radius:12px;
+}
+#image-header{
+    mix-blend-mode:multiply;
+}
+#main-img{
+    width: 100%;
+    height: 13cm;
+    opacity: 0.8;
+    border-radius: 12px;
+}
+#main-about{
+    margin-top: 1cm;
+    padding-left: 6cm;
+    padding-top: 2.5cm;
+}
+#main-lorem{
+    padding: 0;
+    align-items: flex-start;
+    justify-content: left;
+    font-weight: 600;
+    font-size: 20px;
+    text-shadow: 0 0 10px black;
+}
+#download-btn{
+    margin-top: 1cm;
+    color: transparent;
+    
+}
+#status-bar{
+    
+}
+#skills-container{
+    height: 15cm;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    opacity: 0.8;
+    margin-top: 50px;
+}
+#list-1{
+    font-size: 25px;
+}
+.portfolio{
+    font-weight: 500;
+    font-size: 60px;
+    text-align: start;
+    text-shadow: 0 0 20px black;
+}
+.container-port{
+    margin: 50px 0 20px 0;
+    text-align: center;
+}
+.container-port h1{
+    margin: auto;
+    text-align: center;
+    font-family: Magneto;
+}
+.port-top{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 7cm;
+
+    
+}
+
+
+.main-main{
+  
+    
+    height: 6cm;
+    width: 30%;
+    background-color:black;
+    opacity: 0.8;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    text-justify: center;
+    border-radius: 15px;
+    box-shadow: 0 0 10px black;
+    transition: 2s;
+
+
+}
+.main-main:hover{
+    box-shadow: 10px 10px 20px black;
+}
+.main-main2{
+ 
+    height: 6cm;
+    width: 30%;
+    background-color:black;
+    opacity: 0.8;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    text-justify: center;
+    border-radius: 15px;
+    box-shadow: 0 0 10px black;
+}
+
+.text-port{
+    font-size: 30px;
+
+    font-weight: 400;
+    padding:10px;
+    color: white;
+    text-shadow: 0 0 5px white;
+    
+}
+
+.text-port2{
+    font-size: 30px;
+
+    font-weight: 400;
+    padding:10px;
+    color: white;
+    text-shadow: 0 0 5px white;
+    
+    
+}
+.footer-footer{
+    background-color: black;
+    opacity: 0.8;
+    font-weight: 700;
+    font-family: Javanese Text;
+    padding: 10px;
+    color: white;
+    font-size: 15px;
+}
+img{
+    mix-blend-mode: multiply;
+    box-sizing:border-box;
+    height: 130px;
+    width: 130px;
+}
+.banner-card{
+    position: relative;
+
+}
+.banner-text{
+    position: absolute;
+    top: 200px;
+    left: 150px;
+    font-size: 30px;
+
+}
+.btn-contact{
+    background-color: transparent;
+  padding: 10px;
+  size: 50px;
+}
+.hover-effect{
+    transition: 0.7s;
+}
+.hover-effect:hover{
+    color: blue;
+    text-shadow: 0 0 20px black;
+    
+}
+.main-main{
+    transition: 0.9s;
+}
+.main-main:hover{
+    box-shadow: 0 0 10px black;
+   
+}
